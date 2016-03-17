@@ -1,2 +1,3 @@
 # hello-world
-My first try.
+Hi, all,
+I'm a developer comes from China, haha!
